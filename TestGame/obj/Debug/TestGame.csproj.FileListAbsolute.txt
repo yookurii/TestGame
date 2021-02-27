@@ -1,0 +1,9 @@
+C:\Users\AsukaRinne\Source\Repos\TestGame\TestGame\obj\Debug\TestGame.Form1.resources
+C:\Users\AsukaRinne\Source\Repos\TestGame\TestGame\obj\Debug\TestGame.Properties.Resources.resources
+C:\Users\AsukaRinne\Source\Repos\TestGame\TestGame\obj\Debug\TestGame.csproj.GenerateResource.cache
+C:\Users\AsukaRinne\Source\Repos\TestGame\TestGame\obj\Debug\TestGame.csproj.CoreCompileInputs.cache
+C:\Users\AsukaRinne\Source\Repos\TestGame\TestGame\bin\Debug\TestGame.exe.config
+C:\Users\AsukaRinne\Source\Repos\TestGame\TestGame\bin\Debug\TestGame.exe
+C:\Users\AsukaRinne\Source\Repos\TestGame\TestGame\bin\Debug\TestGame.pdb
+C:\Users\AsukaRinne\Source\Repos\TestGame\TestGame\obj\Debug\TestGame.exe
+C:\Users\AsukaRinne\Source\Repos\TestGame\TestGame\obj\Debug\TestGame.pdb
